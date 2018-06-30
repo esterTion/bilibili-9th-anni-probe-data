@@ -2,7 +2,7 @@
 
 `a.php`为爬虫本体  
 `1.json`为原始中奖名单  
-`1_award.json`为爬取对应转发id，按照格式 `http://t.bilibili.com/动态id`即可查看对应转发 如：[http://t.bilibili.com/134896178216234146](http://t.bilibili.com/134896178216234146)  
+`1_probe.json`为爬取对应转发id，按照格式 `http://t.bilibili.com/动态id`即可查看对应转发 如：[http://t.bilibili.com/134896178216234146](http://t.bilibili.com/134896178216234146)  
 json数据 has 字下为对应转发id，missing 为未找到应有的转发，可能是已经自己删除，也可能是黑幕？  
 
 ### 数据概要  
